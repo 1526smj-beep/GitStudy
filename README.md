@@ -29,7 +29,7 @@
 - [ ] 효율적인 게임 최적화 기법 익히기
 
 ## 📫 Contact
-- **Email:** `your-email@example.com` (본인의 이메일로 수정하세요)
+- **Email:** 1526smj@gmail.com
 - **Blog:** [내 공부 블로그 링크]
 
 ---
