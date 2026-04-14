@@ -1,6 +1,6 @@
 # GitStudy
 안녕하세요 게임 개발을 공부하게 된 서민재 입니다.
-# 🎮 Hello, World! I'm Minjae Seo (서민재)
+# 🎮 Hello,I'm Minjae Seo 서민재
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Aspiring%20Game%20Developer&fontSize=50" />
